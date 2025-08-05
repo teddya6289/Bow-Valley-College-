@@ -136,7 +136,10 @@ The following aggregates were ascertain: Number of loyal customers stood at **13
 Continue to improve and innovate on the marketing strategies of the loyal customer group, while aggressively administering sales promotion like Buy 1 get one free, opening a lottery win grand price based 
 on continues patronage, and rewards exclusively for loyal customer groups.
 The buy 1 get one free will encourage sales and the lottery win will further strength and crystalize the sales, while the exclusive rewards for loyal customers will buy considerable level of loyalty 
-that may boost loyalty percentage.
+that may boost loyalty percentage.  
+
+---
+Please Find attached ['Modelled customer set and analysis'](custumer_matrix.ipynb) 
 
 
 
