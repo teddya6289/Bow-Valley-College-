@@ -139,7 +139,7 @@ The buy 1 get one free will encourage sales and the lottery win will further str
 that may boost loyalty percentage.  
 
 ---
-Please Find attached ['Modelled customer set and analysis'](custumer_matrix.ipynb) 
+Please Find attached ['Modelled customer set and analysis'](customer_matrix.ipynb) 
 
 
 
